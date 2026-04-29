@@ -1,17 +1,41 @@
-# Salary Prediction System
+# 💼 Salary Prediction System (Advanced ML Project)
 
-This project predicts employee salaries based on their experience using **Python** and **Machine Learning** (Linear Regression).
+## 📌 Overview
+This project is a Machine Learning based web application that predicts salary based on input features like years of experience. The application is built using Streamlit and includes multiple ML models with performance comparison.
 
-## Features
-- Load dataset from CSV
-- Data visualization using matplotlib/seaborn
-- Build Linear Regression model
-- Predict salaries for given experience
-- Evaluate model performance (R² score, RMSE)
+---
 
-## Technologies Used
-- **Python** – Programming language
-- **Jupyter Notebook** – For running and visualizing code
-- **Pandas & NumPy** – Data handling and manipulation
-- **Matplotlib & Seaborn** – Data visualization
-- **Scikit-learn** – Machine Learning (Linear Regression)
+## 🚀 Features
+- 📊 Data Visualization (Scatter Plot, Histogram, Heatmap)
+- 🤖 Multiple ML Models:
+  - Linear Regression
+  - Decision Tree
+  - Random Forest
+- 📈 Model Performance Comparison (R2, MAE, RMSE)
+- 🔮 Real-time Salary Prediction
+- 💾 Model Saving using Joblib
+- 🌐 Deployed using Streamlit Cloud
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Streamlit
+
+---
+
+## 📊 Visualizations
+- Salary vs Experience (Model Visualization)
+- Salary Distribution (Histogram)
+- Correlation Heatmap
+
+---
+
+## ⚙️ How to Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
