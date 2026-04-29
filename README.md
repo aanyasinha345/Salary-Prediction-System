@@ -39,3 +39,8 @@ This project is a Machine Learning based web application that predicts salary ba
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+
+## 🌐 Live Demo
+https://salary-prediction-system-d7un4ikrhyambuhpajvmwj.streamlit.app/
