@@ -43,4 +43,4 @@ streamlit run app.py
 ---
 
 ## 🌐 Live Demo
-[Click here to open app](https://salary-prediction-system-d7un4ikrhyambuhpajvmwj.streamlit.app/))
+https://salary-prediction-system-d7un4ikrhyambuhpajvmwj.streamlit.app/
